@@ -1,0 +1,17 @@
+{
+  "name": "ext-cgi-mongo",
+  "version": "0.0.3",
+  "description": "MongoDB CGI for ExtJS AJAX proxy.",
+  "main": "ext-cgi-mongo.js",
+  "keywords": [
+    "ExtJS",
+    "CGI",
+    "MongoDB"
+  ],
+  "dependencies": {
+    "mongodb": "~2.1.3",
+    "node-uuid": "~1.4.7"
+  },
+  "author": "Jungle Software",
+  "license": "ISC"
+}
